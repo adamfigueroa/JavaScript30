@@ -13,4 +13,4 @@ What I Learned: Having only used jQuery for event listeners, it was good to see 
 
 it was great to learn that you can put a listener on the end of a transition using 'transitionend'. this is definitely a technique I will use in the future!
 
-![alt text](https://github.com/adamfigueroa/JavaScript30/blob/Images/day-1-snippet.jpg?raw=true)
+![alt text](https://github.com/adamfigueroa/JavaScript30/blob/main/Images/day-1-snippet.jpg?raw=true)
