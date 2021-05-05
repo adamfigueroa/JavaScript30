@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
+    <div class="keybox">
     <div class="keys">
       <div data-key="65" class="key">
         <kbd>A</kbd>
@@ -44,6 +45,36 @@
         <span class="sound">tink</span>
       </div>
     </div>
+    <div class="keys">
+      <div data-key="90" class="key">
+        <kbd>Z</kbd>
+        <span class="sound">BWWA!</span>
+      </div>
+      <div data-key="88" class="key">
+        <kbd>X</kbd>
+        <span class="sound">Scratch</span>
+      </div>
+      <div data-key="67" class="key">
+        <kbd>C</kbd>
+        <span class="sound">Blast</span>
+      </div>
+      <div data-key="86" class="key">
+        <kbd>V</kbd>
+        <span class="sound">IDC</span>
+      </div>
+      <div data-key="66" class="key">
+        <kbd>B</kbd>
+        <span class="sound">Beam</span>
+      </div>
+      <div data-key="78" class="key">
+        <kbd>N</kbd>
+        <span class="sound">Brrrt</span>
+      </div>
+      <div data-key="77" class="key">
+        <kbd>M</kbd>
+        <span class="sound">Skid</span>
+      </div>
+    </div>
 
     <audio data-key="65" src="sounds/clap.wav"></audio>
     <audio data-key="83" src="sounds/hihat.wav"></audio>
@@ -54,6 +85,13 @@
     <audio data-key="74" src="sounds/snare.wav"></audio>
     <audio data-key="75" src="sounds/tom.wav"></audio>
     <audio data-key="76" src="sounds/tink.wav"></audio>
+    <audio data-key="90" src="sounds/inception.mp3"></audio>
+    <audio data-key="88" src="sounds/scratch.wav"></audio>
+    <audio data-key="67" src="sounds/blaster.wav"></audio>
+    <audio data-key="86" src="sounds/IDC.wav"></audio>
+    <audio data-key="66" src="sounds/explosion.wav"></audio>
+    <audio data-key="78" src="sounds/brrt.wav"></audio>
+    <audio data-key="77" src="sounds/skid.wav"></audio>
 
     <script>
       function playSound(e) {

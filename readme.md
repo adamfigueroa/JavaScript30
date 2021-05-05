@@ -14,3 +14,10 @@ What I Learned: Having only used jQuery for event listeners, it was good to see 
 it was great to learn that you can put a listener on the end of a transition using 'transitionend'. this is definitely a technique I will use in the future!
 
 ![alt text](https://github.com/adamfigueroa/JavaScript30/blob/main/Images/day-1-snippet.jpg?raw=true)
+
+### Day 2 - JS and CSS Clock - Complete
+What I Learned: As straight forward as a clock can be, I just learned the recipe on how to make a clean simple clock! I'm taking that logic with me!
+
+sidenote: The new css features on devtools are soo neat!  
+
+![alt text](https://github.com/adamfigueroa/JavaScript30/blob/main/Images/day-2-snippet.jpg?raw=true)
