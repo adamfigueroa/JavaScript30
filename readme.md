@@ -26,3 +26,10 @@ sidenote: The new css features on devtools are soo neat!
 What I Learned: Yes! super glad to see that there is a way to create a variable with CSS. I'm definitely going to study CSS variables more.
 
 ![alt text](https://github.com/adamfigueroa/JavaScript30/blob/main/Images/day-3-snippet.jpg?raw=true)
+
+### Day 4 - Array Cardio Day 1 - Complete
+What I Learned: It was great to go back and drill array methods, especially the reduce method, I struggled fully understanding reduce during school but not it finally clicked!
+
+I also wanted to bring attention to the screenshot below because this is the first time i've pulled information off of a webpage before. felt like a real #hackerman
+
+![alt text](https://github.com/adamfigueroa/JavaScript30/blob/main/Images/day-4-snippet.jpg?raw=true)
