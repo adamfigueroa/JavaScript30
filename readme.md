@@ -33,3 +33,24 @@ What I Learned: It was great to go back and drill array methods, especially the 
 I also wanted to bring attention to the screenshot below because this is the first time i've pulled information off of a webpage before. felt like a real #hackerman
 
 ![alt text](https://github.com/adamfigueroa/JavaScript30/blob/main/Images/day-4-snippet.jpg?raw=true)
+
+### Day 5 - Flex Panels - Complete
+What I Learned: I was always wondering how to create these kinds of panels!
+
+The code below in particular was enjoyable to learn: Grab the first child element and keep it off of the page, once the "open-active" class is added it then grabs that element and brings it onto the page.
+
+```
+.panel > *:first-child { transform: translateY(-100%); }
+.panel.open-active > *:first-child { transform: translateY(0); }
+```
+
+![alt text](https://github.com/adamfigueroa/JavaScript30/blob/main/Images/day-5-snippet.jpg?raw=true)
+
+### Day 6 - Ajax Type Ahead - Complete
+What I Learned: It was a great review of a fetch request via JS also I gained more understanding on regex
+
+```
+new RegExp(this.value, 'gi')
+```
+
+![alt text](https://github.com/adamfigueroa/JavaScript30/blob/main/Images/day-6-snippet.jpg?raw=true)
