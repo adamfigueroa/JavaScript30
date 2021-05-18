@@ -54,3 +54,10 @@ new RegExp(this.value, 'gi')
 ```
 
 ![alt text](https://github.com/adamfigueroa/JavaScript30/blob/main/Images/day-6-snippet.jpg?raw=true)
+
+### Day 7 - Array Cardio Day 2 - Complete
+What I Learned: It was a great review of some array methods I haven't practiced with. findIndex for example.
+
+console.table is my new best friend!
+
+![alt text](https://github.com/adamfigueroa/JavaScript30/blob/main/Images/day-7-snippet.jpg?raw=true)
