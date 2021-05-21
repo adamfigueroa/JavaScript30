@@ -61,3 +61,10 @@ What I Learned: It was a great review of some array methods I haven't practiced 
 console.table is my new best friend!
 
 ![alt text](https://github.com/adamfigueroa/JavaScript30/blob/main/Images/day-7-snippet.jpg?raw=true)
+
+### Day 7 - HTML5 Canvas - Complete
+What I Learned: Wow, a lot today! Every new concept really expands what I think is possible with just vanilla JS. I've never used canvas before and it was cool to learn how to track X and Y coordinates based off of the event handler.
+
+I'm very interested to see how this translates over to React.
+
+![alt text](https://github.com/adamfigueroa/JavaScript30/blob/main/Images/day-8-snippet.jpg?raw=true)
